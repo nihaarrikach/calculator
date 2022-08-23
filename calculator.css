@@ -1,0 +1,52 @@
+ .bg{
+     background-color: black;
+ }
+
+ #calinput{
+     width: 209px;
+     height: 40px;
+     background-color: black;
+     color: white;
+   
+ }
+
+ .clear {
+    width: 104px;
+
+    height: 40px;
+    
+}
+.back {
+ height: 40px;
+ width: 50px;
+}
+.mod {
+    height: 40px;
+    width: 50px;
+    background-color: darkorange;
+   }
+   .operation{
+    height: 40px;
+    width: 50px;
+   }
+   .zero{
+    width: 104px;
+
+    height: 40px;
+    
+   }
+   .equal{
+    height: 40px;
+    width: 50px;
+   }
+
+   .dot{
+       height: 40px;
+       width: 50px;
+   }
+   .op{
+       background-color: darkorange;
+   }
+   .one:hover{
+       background-color: rgb(241, 207, 68);
+   }
